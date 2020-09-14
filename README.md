@@ -8,29 +8,31 @@
  <summary>
   Пример работы метода GET
  </summary>
- <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/1.png" width=250px>
+ <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/1.png" width=350px>
 </details>
 
 <details>
  <summary>
   Пример работы метода POST
  </summary>
- <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/2.png" width=250px>
- <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/3.png" width=250px>
+ <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/2.png" width=350px>
+ 
+ <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/3.png" width=350px>
 </details>
 
 <details>
  <summary>
   Пример работы метода PUT
  </summary>
- <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/4.png" width=250px>
- <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/5.png" width=250px>
+ <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/4.png" width=350px>
+ 
+ <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/5.png" width=350px>
 </details>
 
 <details>
  <summary>
   Пример работы метода DELETE
  </summary>
- <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/6.png" width=250px>
+ <img src="https://raw.githubusercontent.com/On-Luck/WinForm_API/master/Screenshot/6.png" width=350px>
 </details>
 
