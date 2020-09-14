@@ -1,0 +1,10 @@
+C:\Users\ivand\source\repos\WindowsFormsFrameworkTodoApi\WindowsFormsFrameworkTodoApi\bin\Debug\WindowsFormsFrameworkTodoApi.exe.config
+C:\Users\ivand\source\repos\WindowsFormsFrameworkTodoApi\WindowsFormsFrameworkTodoApi\bin\Debug\WindowsFormsFrameworkTodoApi.exe
+C:\Users\ivand\source\repos\WindowsFormsFrameworkTodoApi\WindowsFormsFrameworkTodoApi\bin\Debug\WindowsFormsFrameworkTodoApi.pdb
+C:\Users\ivand\source\repos\WindowsFormsFrameworkTodoApi\WindowsFormsFrameworkTodoApi\obj\Debug\WindowsFormsFrameworkTodoApi.csprojAssemblyReference.cache
+C:\Users\ivand\source\repos\WindowsFormsFrameworkTodoApi\WindowsFormsFrameworkTodoApi\obj\Debug\WindowsFormsFrameworkTodoApi.Properties.Resources.resources
+C:\Users\ivand\source\repos\WindowsFormsFrameworkTodoApi\WindowsFormsFrameworkTodoApi\obj\Debug\WindowsFormsFrameworkTodoApi.csproj.GenerateResource.cache
+C:\Users\ivand\source\repos\WindowsFormsFrameworkTodoApi\WindowsFormsFrameworkTodoApi\obj\Debug\WindowsFormsFrameworkTodoApi.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\WindowsFormsFrameworkTodoApi\WindowsFormsFrameworkTodoApi\obj\Debug\WindowsFormsFrameworkTodoApi.exe
+C:\Users\ivand\source\repos\WindowsFormsFrameworkTodoApi\WindowsFormsFrameworkTodoApi\obj\Debug\WindowsFormsFrameworkTodoApi.pdb
+C:\Users\ivand\source\repos\WindowsFormsFrameworkTodoApi\WindowsFormsFrameworkTodoApi\obj\Debug\WindowsFormsFrameworkTodoApi.FormMain.resources
